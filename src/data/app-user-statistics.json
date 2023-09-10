@@ -1,0 +1,57 @@
+{
+	"result": [
+		{
+			"amount": 3272,
+			"appName": "应用 1",
+			"appId": "A00010"
+		},
+		{
+			"amount": 1832,
+			"appName": "应用 2",
+			"appId": "A00011"
+		},
+		{
+			"amount": 1051,
+			"appName": "应用 3",
+			"appId": "A00013"
+		},
+		{
+			"amount": 1178,
+			"appName": "应用 4",
+			"appId": "A00015"
+		},
+		{
+			"amount": 569,
+			"appName": "应用 5",
+			"appId": "A00018"
+		},
+		{
+			"amount": 464,
+			"appName": "应用 6",
+			"appId": "A00021"
+		},
+		{
+			"amount": 890,
+			"appName": "应用 7",
+			"appId": "A00022"
+		},
+		{
+			"amount": 1102,
+			"appName": "应用 8",
+			"appId": "A00028"
+		},
+		{
+			"amount": 815,
+			"appName": "应用 9",
+			"appId": "A00029"
+		},
+		{
+			"amount": 1012,
+			"appName": "应用 10",
+			"appId": "A00031"
+		}
+	],
+	"code": 200,
+	"success": true,
+	"message": "success"
+}

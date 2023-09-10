@@ -1,0 +1,82 @@
+[
+  {
+    "orgName": "汉朝-东汉",
+    "rank": 1,
+    "userName": "吕布",
+    "userId": 123,
+    "userCode": "123",
+    "point": 987
+  },
+  {
+    "orgName": "三国-蜀汉",
+    "rank": 2,
+    "userName": "马超",
+    "userId": 456,
+    "userCode": "456",
+    "point": 876
+  },
+  {
+    "orgName": "三国-曹魏",
+    "rank": 3,
+    "userName": "典韦",
+    "userId": 789,
+    "userCode": "789",
+    "point": 765
+  },
+  {
+    "orgName": "三国-蜀汉",
+    "rank": 4,
+    "userName": "关羽",
+    "userId": 123,
+    "userCode": "123",
+    "point": 567
+  },
+  {
+    "orgName": "三国-蜀汉",
+    "rank": 5,
+    "userName": "赵云",
+    "userId": 456,
+    "userCode": "456",
+    "point": 543
+  },
+  {
+    "orgName": "三国-蜀汉",
+    "rank": 6,
+    "userName": "张飞",
+    "userId": 789,
+    "userCode": "789",
+    "point": 432
+  },
+  {
+    "orgName": "三国-曹魏",
+    "rank": 7,
+    "userName": "许褚",
+    "userId": 123,
+    "userCode": "123",
+    "point": 321
+  },
+  {
+    "orgName": "三国-蜀汉",
+    "rank": 8,
+    "userName": "黄忠",
+    "userId": 456,
+    "userCode": "456",
+    "point": 210
+  },
+  {
+    "orgName": "三国-蜀汉",
+    "rank": 9,
+    "userName": "姜维",
+    "userId": 789,
+    "userCode": "789",
+    "point": 198
+  },
+  {
+    "orgName": "三国-东吴",
+    "rank": 10,
+    "userName": "陆逊",
+    "userId": 123,
+    "userCode": "123",
+    "point": 187
+  }
+]
