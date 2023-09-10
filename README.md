@@ -1,4 +1,10 @@
-# moa-dashboard
+# nine-cell-dashboard
+
+## dev env
+```
+node: v14.21.3
+npm: 6.14.18
+```
 
 ## Project setup
 ```
@@ -14,16 +20,3 @@ npm run serve
 ```
 npm run build
 ```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
